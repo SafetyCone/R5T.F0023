@@ -1,0 +1,3 @@
+R5T.F0023.Construction - Construction project for Generation functionality for Roslyn syntax elements..
+
+GOALS:
